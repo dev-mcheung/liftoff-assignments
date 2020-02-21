@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I am thinking of building a project management dashboard. From here, users will be able to see current project assignments and
+the current progress of each projects. The project manager will act as an admin of the dashboard where they can add users, delete users,
+add projects, ect.
+
+This will be a good tool for any teams who wants to be more organize and see the overall process/milestones of a project.
 ### Features
-Include Features here
+- Sign in page to login into the dashboard 
+- Add new project: This is will act as creating a new projects with descriptions and assigning users to it.
+- Implement an ability to update the status of the project
+- Todo/task
+- Add new users through some kind of admin panel and along with adding their roles
+- Add charts for visual UI 
 ### Technologies
-Include Technologies here
+* React
+* Java
+* Javascript 
+* JPA
+* MariaDB
+* Bulma
+* Spring Boot
 ### What I'll Have to Learn
-Include what you will need to learn here
+* Bulma: Learn how to style the website using a CSS framework.
+* React: Learn the react framework and how to build it from scratch.
+* Make a backend API and have React be able to pull the data from this API.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/GeeWonCK/launchcode-capstone-project
